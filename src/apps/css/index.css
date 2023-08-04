@@ -1,0 +1,13 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;400;800&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.sidebar.active {
+  background: rgb(107 114 128);
+}
+
+.bottomNavigation.active {
+  color: rgb(59 130 246);
+}
