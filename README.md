@@ -1,4 +1,3 @@
-# Starterpack-React-Vite M Aji Perdana
 ### My Starter pack React + Vite for any project Single Page Application
 
 ### Includes
